@@ -2,8 +2,8 @@ export const data = [
     {
         id: 1,
         title: "rokudenashi - ambigious",
-        song: "rokudenashi-ambigious.mp4",
-        art: "rokudenashi-ambigious.webp",
+        song: "rokudenashi-ambigious/song.mp4",
+        art: "rokudenashi-ambigious/art.webp",
         lyrics: ""
     },
     {
